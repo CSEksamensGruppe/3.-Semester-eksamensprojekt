@@ -33,5 +33,16 @@ namespace TestOpsætningMiljø.Tests
 
             Assert.AreEqual(expectedvalue, actualvalue);
         }
+
+        [TestMethod()]
+        public void PlusTest()
+        {
+            Udregning udregning = new Udregning();
+
+            double actualvalue = udregning.Plus(4, 2);
+            double expectedvalue = 6;
+
+            Assert.AreEqual(expectedvalue, actualvalue);
+        }
     }
 }

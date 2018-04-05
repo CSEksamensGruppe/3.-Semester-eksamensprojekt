@@ -16,5 +16,9 @@ namespace TestOpsætningMiljø
         {
             return x * y;
         }
+        public double Plus(double x, double y)
+        {
+            return x + y;
+        }
     }
 }
