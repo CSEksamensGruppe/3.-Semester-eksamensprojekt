@@ -12,5 +12,9 @@ namespace TestOpsætningMiljø
         {
             return x / y;
         }
+        public double Gange(double x, double y)
+        {
+            return x * y;
+        }
     }
 }

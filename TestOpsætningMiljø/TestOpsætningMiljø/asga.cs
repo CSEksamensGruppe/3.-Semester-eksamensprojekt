@@ -6,10 +6,13 @@ using System.Threading.Tasks;
 
 namespace TestOpsætningMiljø
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-        }
+    class asga
+    {asfa
+
+
+
+
+            asfas
+
     }
 }

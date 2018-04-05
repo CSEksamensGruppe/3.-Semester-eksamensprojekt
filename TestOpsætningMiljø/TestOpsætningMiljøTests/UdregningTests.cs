@@ -22,5 +22,16 @@ namespace TestOpsætningMiljø.Tests
 
             Assert.AreEqual(expectedvalue, actualvalue);
         }
+
+        public void GangeTest()
+        {
+            Udregning udregning = new Udregning();
+
+            double actualvalue = udregning.Gange(10, 2);
+            double expectedvalue = 20;
+
+
+            Assert.AreEqual(expectedvalue, actualvalue);
+        }
     }
 }
