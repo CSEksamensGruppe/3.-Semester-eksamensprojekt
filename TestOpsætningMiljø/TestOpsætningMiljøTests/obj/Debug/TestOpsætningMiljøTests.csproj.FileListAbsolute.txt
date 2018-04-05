@@ -1,0 +1,17 @@
+C:\Users\Dunk\Source\Repos\TestOpsætningMiljø\TestOpsætningMiljøTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Dunk\Source\Repos\TestOpsætningMiljø\TestOpsætningMiljøTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Dunk\Source\Repos\TestOpsætningMiljø\TestOpsætningMiljøTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Dunk\Source\Repos\TestOpsætningMiljø\TestOpsætningMiljøTests\bin\Debug\TestOpsætningMiljøTests.dll
+C:\Users\Dunk\Source\Repos\TestOpsætningMiljø\TestOpsætningMiljøTests\bin\Debug\TestOpsætningMiljøTests.pdb
+C:\Users\Dunk\Source\Repos\TestOpsætningMiljø\TestOpsætningMiljøTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Dunk\Source\Repos\TestOpsætningMiljø\TestOpsætningMiljøTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Dunk\Source\Repos\TestOpsætningMiljø\TestOpsætningMiljøTests\bin\Debug\TestOpsætningMiljø.exe
+C:\Users\Dunk\Source\Repos\TestOpsætningMiljø\TestOpsætningMiljøTests\bin\Debug\TestOpsætningMiljø.pdb
+C:\Users\Dunk\Source\Repos\TestOpsætningMiljø\TestOpsætningMiljøTests\bin\Debug\TestOpsætningMiljø.exe.config
+C:\Users\Dunk\Source\Repos\TestOpsætningMiljø\TestOpsætningMiljøTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Dunk\Source\Repos\TestOpsætningMiljø\TestOpsætningMiljøTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Dunk\Source\Repos\TestOpsætningMiljø\TestOpsætningMiljøTests\obj\Debug\TestOpsætningMiljøTests.csprojResolveAssemblyReference.cache
+C:\Users\Dunk\Source\Repos\TestOpsætningMiljø\TestOpsætningMiljøTests\obj\Debug\TestOpsætningMiljøTests.csproj.CoreCompileInputs.cache
+C:\Users\Dunk\Source\Repos\TestOpsætningMiljø\TestOpsætningMiljøTests\obj\Debug\TestOpsætningMiljøTests.csproj.CopyComplete
+C:\Users\Dunk\Source\Repos\TestOpsætningMiljø\TestOpsætningMiljøTests\obj\Debug\TestOpsætningMiljøTests.dll
+C:\Users\Dunk\Source\Repos\TestOpsætningMiljø\TestOpsætningMiljøTests\obj\Debug\TestOpsætningMiljøTests.pdb

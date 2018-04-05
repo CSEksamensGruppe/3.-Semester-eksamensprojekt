@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestOpsætningMiljø", "TestOpsætningMiljø\TestOpsætningMiljø.csproj", "{47C3A91D-0829-49C3-ABE8-7FFEE19F783D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestOpsætningMiljøTests", "TestOpsætningMiljøTests\TestOpsætningMiljøTests.csproj", "{C5A19312-A772-4AA4-BA4E-83F4404C67D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47C3A91D-0829-49C3-ABE8-7FFEE19F783D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47C3A91D-0829-49C3-ABE8-7FFEE19F783D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47C3A91D-0829-49C3-ABE8-7FFEE19F783D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47C3A91D-0829-49C3-ABE8-7FFEE19F783D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5A19312-A772-4AA4-BA4E-83F4404C67D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5A19312-A772-4AA4-BA4E-83F4404C67D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5A19312-A772-4AA4-BA4E-83F4404C67D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5A19312-A772-4AA4-BA4E-83F4404C67D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD4B7A27-807B-4DD1-8D90-EEA4B53F7DBE}
+	EndGlobalSection
+EndGlobal
